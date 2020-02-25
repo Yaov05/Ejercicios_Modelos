@@ -1,5 +1,7 @@
 # Ejercicios-Modelos
 
+Youssef Alejandro Ortiz Vargas - 20171020083
+
 ## Ejercicios Simples:
 
 5. Escribir un programa que calcule el área de un triángulo, capturando los valores de base y altura. área del triángulo = (base * altura)/2: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/areaTriangulo.py).
